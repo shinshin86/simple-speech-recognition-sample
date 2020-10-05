@@ -4,6 +4,12 @@ Simple speech recognition sample.
 
 
 
+**Note**
+
+This sample has been tested on the PC version of Google Chrome only.
+
+
+
 ## Demo
 
 This GIF is a demo of actual voice recognition.
