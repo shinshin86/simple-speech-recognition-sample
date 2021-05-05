@@ -25,9 +25,13 @@ This GIF is a demo of actual voice recognition.
 git clone https://github.com/shinshin86/simple-speech-recognition-sample.git
 cd simple-speech-recognition-sample
 
-# Start local server then access on browser
+# Start local server then access on browser (http://localhost:8000/)
 # If you can use Python
-python -m http.server
+# Python2
+python -mSimpleHTTPServer
+
+# Python3
+python3 -m http.server
 ```
 
 
